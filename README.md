@@ -19,24 +19,22 @@
 <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="600" height="300" />
 </div>
 <div>
-
-___
   
-## :man_technologist: About Me
+## About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer from India.
 
-- :telescope: I’m a Web developer and contributing to frontend and backend for building web applications.
+- I’m a Web developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- Exploring Technical Content Writing.
 
-- :zap: In my free time, I build some projects and read tech articles.
+- In my free time, I build some projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muthuselvam-ramesh-b87369208/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muthuselvam-ramesh-b87369208/)
 </div>
 <div>
 
-## :hammer_and_wrench: Languages and Tools :
+## Languages and Tools
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
@@ -46,18 +44,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"><br>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"><br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><br>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br>
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><br>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
 </div>
 </div>
 <div>
 
-## :fire: My Stats
+## My Stats
 
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Muthuselvam200&theme=dark&mode=weekly)](https://git.io/streak-stats)"><br>
